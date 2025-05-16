@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-const = 3
+const = 2
 
 # Não seria necessário criar as variáveis y, fiz apenas por didática
 x_array = np.linspace(0,2*np.pi,10)
