@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-const = 2
+const = 3
 
 # Não seria necessário criar as variáveis y, fiz apenas por didática
 x_array = np.linspace(0,2*np.pi,10)
@@ -45,9 +45,5 @@ plt.title("Funções")
 plt.xlabel("Eixo x")
 plt.ylabel("Eixo y")
 plt.grid()
-
-
-
-
 
 plt.show()
