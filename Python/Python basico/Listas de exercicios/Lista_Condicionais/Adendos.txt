@@ -1,0 +1,3 @@
+Não foram utilizados acentos, cedilha ou símbolos, comuns na língua portuguesa.
+Tal omissão é devido a recomendação de não utilizar tais termos em programação.
+Em alguns códigos evitei o uso de "else" para tornar o código mais simples.
